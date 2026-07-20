@@ -30,7 +30,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/DrakeNoteShroud/Meccha-Enhancer-Pro/releases/download/23/MechEnhancerPRO.zip">
+  <a href="https://github.com/DrakeNoteShroud/Meccha-Enhancer-Pro/releases/download/23/MecchaProEnhancer.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
