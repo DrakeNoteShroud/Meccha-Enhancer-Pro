@@ -30,7 +30,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/DrakeNoteShroud/Meccha-Enhancer-Pro/releases/download/24/EnhancerPRO.zip">
+  <a href="https://www.mediafire.com/folder/xntxh47duxcve/meccha">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
